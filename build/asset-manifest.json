@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf8511d6.css",
+    "main.js": "/static/js/main.b5e7a67b.js",
+    "static/media/Avatar.png": "/static/media/Avatar.fa312ccf8f85946c64d0.png",
+    "static/media/foodcircles.png": "/static/media/foodcircles.1b95e9da8a81bf663e85.png",
+    "static/media/grocery.png": "/static/media/grocery.9ffe3147ed10dee90052.png",
+    "static/media/AMIR-RESUME-FINAL.pdf": "/static/media/AMIR-RESUME-FINAL.5dfcc225938300be9aeb.pdf",
+    "static/media/iBlog-cover.png": "/static/media/iBlog-cover.e65a19ecf4088be4365b.png",
+    "static/media/mWeather.png": "/static/media/mWeather.2968edb401f7b1a99dc9.png",
+    "static/media/Metric.png": "/static/media/Metric.944932d77f7ad1a8d87a.png",
+    "static/media/calculator.png": "/static/media/calculator.547e7348e928a57d72c2.png",
+    "index.html": "/index.html",
+    "main.bf8511d6.css.map": "/static/css/main.bf8511d6.css.map",
+    "main.b5e7a67b.js.map": "/static/js/main.b5e7a67b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf8511d6.css",
+    "static/js/main.b5e7a67b.js"
+  ]
+}
